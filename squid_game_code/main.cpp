@@ -2100,7 +2100,7 @@ int main(int argc, char** argv)
 #endif
 
 	// 配置窗口属性
-	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "HuangWei-Squid Game", NULL, NULL);
+	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "Squid Game", NULL, NULL);
 	if (window == NULL)
 	{
 		std::cout << "Failed to create GLFW window" << std::endl;
