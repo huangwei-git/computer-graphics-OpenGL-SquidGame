@@ -1,0 +1,9 @@
+# MagicaVoxel @ Ephtracy
+
+newmtl palette
+illum 1
+Ka 0.7500 0.7500 0.750
+Kd 1.100 1.100 1.100
+Ks 1.550 1.550 1.550
+Ns 2.00
+map_Kd npc-0-1.png
