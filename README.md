@@ -5,6 +5,7 @@
 ## Window:
 
 <u>ESC</u>:  `Exit`
+
 <u>H</u>: `Help documentation`
 
 ## Light Source:
